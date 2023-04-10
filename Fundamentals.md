@@ -14,4 +14,11 @@
 
 Verify scala installation: scala -version
 
+### Run scala
+For running scala, use: scala nameFile.scala
 
+### Specs
+
+Scala has type inference but it is not recommended
+
+Specify the types gives us a faster compilation
